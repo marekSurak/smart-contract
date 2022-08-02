@@ -1,0 +1,22 @@
+{
+  "name": "smart-contract",
+  "version": "1.0.0",
+  "description": "test smart contract for ethers-learning app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marekSurak/smart-contract.git"
+  },
+  "keywords": [
+    "web3"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marekSurak/smart-contract/issues"
+  },
+  "homepage": "https://github.com/marekSurak/smart-contract#readme"
+}
