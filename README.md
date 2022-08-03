@@ -1,13 +1,22 @@
-# Sample Hardhat Project
+# Hello world smart-contract app
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
-Try running some of the following tasks:
+Smart-contract is used for learning pruposes here [https://github.com/marekSurak/ethers-learning](https://github.com/marekSurak/ethers-learning)
 
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+Contract is deployed on Goerli network.
+You can check it here: [https://goerli.etherscan.io/address/0x42c961fd99e38c9b137cc37512ef551c6729fcd5](https://goerli.etherscan.io/address/0x42c961fd99e38c9b137cc37512ef551c6729fcd5)
+
+Transaction from first successfull deploy is available [here](https://goerli.etherscan.io/tx/0x9e2aff09e0a979e69408a99731beae0d56dc7a4543411fb21002b0432df83248)
+
+### `yarn`
+
+install all required dependencies
+
+### `npx hardhat compile`
+
+compile contract
+
+### `npx hardhat run scripts/deploy.js`
+
+deploy contract to network
