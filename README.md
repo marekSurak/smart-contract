@@ -1,4 +1,5 @@
 # Hello world smart-contract app
+![Screenshot 2022-08-03 at 9 45 05](https://user-images.githubusercontent.com/20334563/182552857-950a4404-cd32-42bc-8bbf-a5155164df5e.png)
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
